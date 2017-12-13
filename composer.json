@@ -3,6 +3,7 @@
     "description": "This package provides a flexible way to add api authentication in Laravel",
     "keywords": ["laravel", "api-auth"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Rajan Desai"
